@@ -1,4 +1,4 @@
-# Welcome to my Data Analyst Portfolio!
+# Welcome to my Data Portfolio!
 As a data analyst, I excel in utilizing a range of tools and technologies to collect, organize, and analyze data, guiding informed business decisions. I have proficiency in Python, SQL, Excel, and Power BI, with a robust understanding of data analytics techniques such as dashboard creation, report writing, data mining, data merging, statistics, and critical thinking.
 
 This portfolio features various projects that highlight my data analytics capabilities. You'll find links to dashboards and reports crafted with Power BI and Excel, demonstrating my ability to present data clearly and visually appealingly, facilitating easy understanding for decision-makers.
