@@ -1,6 +1,17 @@
 ## 🎬 Maven Movies SQL Analysis
 ### 📝 Introduction
 This project involves running a series of SQL queries on the Maven Movies database to extract actionable insights for operational reporting, customer profiling, inventory management, and fraud detection. The dataset simulates a movie rental company, and the analysis covers various aspects such as staff information, inventory distribution, customer engagement, and financial metrics.
+## 📂 Dataset Description
+
+The analysis was performed on a movie database consisting of the following key tables:
+
+- **movies** – Contains details like movie ID, title, release year, and rating.
+- **genres** – Maps movies to one or multiple genres.
+- **ratings** – Includes audience and critic ratings.
+- **directors** – Lists directors associated with each movie.
+- **actors** – Details on main actors featured in the movies.
+
+> 📌 **Note**: This dataset was sourced from [mavens data play ground](https://mavenanalytics.io/data-playground)
 
 ### 🎯 Objective
 The purpose of this analysis is to provide a data-backed overview of the business operations. Specifically, the project aims to:
